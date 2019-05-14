@@ -14,13 +14,9 @@ Bitcoin Phiber Miner is an **easy to use CPU & GPU cryptocurrency miner for Wind
 
 We support NVIDIA GPUs only at this time.
 
-<img src="https://Bitcoin Phiber.com/imgs/NHM_v1610.png" />
-
-Please follow us on Twitter <a href="https://twitter.com/Bitcoin PhiberMining" target="_blank">@Bitcoin PhiberMining</a> for updates on new versions and other important information.
-
 # <a name="benefits"></a> What are the benefits?
 
-Bitcoin Phiber Miner is essentially the only tool a miner needs. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into Bitcoin Phiber Miner and will enable you seamless, joyful and **profitable mining experience**.
+Bitcoin Phiber Miner is essentially the only tool a miner needs. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis.
 
 # <a name="features"></a> Features
 
