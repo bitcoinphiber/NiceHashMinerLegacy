@@ -12,7 +12,7 @@
 
 Bitcoin Phiber Miner is an **easy to use GPU cryptocurrency miner for Windows**. With a simple an intuitive graphical user interface it allows you to quickly turn your PC, workstation or server into **money-making cryptocurrency mining machine**. Why leave your computer idle, whereas it could **earn you Bitcoin Phiber with just a few clicks**?
 
-We support NVIDIA GPUs only at this time.
+<b>We support NVIDIA GPUs only at this time.</b>
 
 # <a name="benefits"></a> What are the benefits?
 
