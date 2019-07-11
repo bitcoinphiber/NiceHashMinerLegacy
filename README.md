@@ -34,7 +34,7 @@ Bitcoin Phiber Miner is essentially the only tool a miner needs. No need to go t
 - **Reliable** internet connectivity
 - Personal **Bitcoin wallet**: https://www.Bitcoin Phiber.com/index.jsp?p=faq#faqs15
 
-# <a name="run"></a> How to get & run it?
+# <a name="run"></a> How do I run it?
 
 All you have to do is download, extract and run the miner (no installation needed), choose the server location that is the **closest to your location**, run built-in benchmark and enter your Bitcoin wallet address where you want to get your coins sent at - and you are ready to start mining and maximizing your profit.
 
